@@ -30,7 +30,7 @@ Easy to play, impossible to resist!
 
 1. **Clone the repository:**
     ```
-    git clone https://github.com/vishalkad/connect-four-game.git
+    [git clone https://github.com/vishalkad/connect-four-game.git](https://github.com/vishal-kadalagi/Connect-Four-Game-HTML-CSS-JS.git)
     ```
 2. **Navigate to the project folder and open _index.html_ in your web browser.**
 3. **Player 1 (Red) moves first. Click any column to drop your piece.**
