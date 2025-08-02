@@ -1,47 +1,45 @@
-Connect Four Game 🎮
-A simple yet engaging two-player Connect Four game built with JavaScript and jQuery to sharpen web development skills.
+# Connect Four Game 🎮
 
-🚀 About the Project
-Get ready to challenge a friend! This project brings the classic Connect Four board game to your browser. Play is straightforward: two players take turns dropping colored discs into a grid. The goal is simple—be the first to form a line of four of your own discs, either horizontally, vertically, or diagonally.
+A simple yet engaging two-player **Connect Four** game built with JavaScript and jQuery—perfect for sharpening your web development skills!
 
-✨ Features
-Dual-Player Mode: 🤝 Challenge a friend on the same device.
+## 🚀 About the Project
 
-Color-Coded Fun: ❤️ Player 1 uses red discs, and 💛 Player 2 uses yellow.
+Challenge a friend and relive the fun of the classic Connect Four right in your browser! Two players alternate turns dropping colored discs into a vertical grid. The objective? Be the first to connect four discs—horizontally, vertically, or diagonally.  
+Easy to play, impossible to resist!
 
-Smart Win Detection: 🏆 The game automatically checks for a winner after every move.
+## ✨ Features
 
-Simple & Clean UI: 🕹️ An easy-to-navigate interface focused on gameplay.
+- **Dual-Player Mode:**  
+  Compete with a friend on the same computer.
+- **Color-Coded Discs:**  
+  ❤️ Player 1 — Red discs  
+  💛 Player 2 — Yellow discs
+- **Smart Win Detection:**  
+  Instantly checks and announces the winner after every move.
+- **Clean, Simple User Interface:**  
+  Straightforward design that focuses on seamless gameplay.
 
-🛠️ Technologies Used
-HTML: The sturdy foundation of our game board.
+## 🛠️ Technologies Used
 
-CSS: Making the game look sleek and colorful.
+- **HTML:** Provides the robust structure for the game board.
+- **CSS:** Styles the board and pieces for a vibrant, inviting look.
+- **JavaScript:** Powers game logic, input handling, and win detection.
+- **jQuery:** Simplifies DOM manipulation for smooth, responsive play.
 
-JavaScript: The brain behind all the game's logic.
+## ➡️ How to Play
 
-jQuery: For smoother, simpler DOM manipulation.
+1. **Clone the repository:**
+    ```
+    git clone https://github.com/vishalkad/connect-four-game.git
+    ```
+2. **Navigate to the project folder and open _index.html_ in your web browser.**
+3. **Player 1 (Red) moves first. Click any column to drop your piece.**
+4. **Alternate turns with your opponent.**
+5. **First to align four discs in a row (horizontal/vertical/diagonal) wins!**
+6. **A message will announce the winner.**
 
-➡️ How to Play
-Clone this repository to your local machine.
+## 📸 Screenshots
 
-Open index.html in your favorite web browser.
-
-Player 1 (Red) starts first.
-
-Click on any column to drop your disc.
-
-Take turns with your opponent.
-
-The first one to connect four wins! A message will announce the winner.
-
-
-
-🧑‍💻 Author
-Vishal Kadalagi
-
-📄 License
-This project is open-source and licensed under the MIT License.## ScreenShots Attached:
 A picture is worth a thousand words! You can find screenshots of the game in the ScreenShots/ directory.
 
 ![](./ScreenShots/SS_1.png)
@@ -49,3 +47,15 @@ A picture is worth a thousand words! You can find screenshots of the game in the
 
 ## How to run locally?
 * Just clone the repository and open index.html file, you are good to go.
+* 
+## 🧑💻 Author
+
+**Vishal Kadalagi**
+
+## 📄 License
+
+This project is **open-source** and released under the [MIT License](LICENSE).
+
+**Enjoy the game and happy coding!**
+
+
