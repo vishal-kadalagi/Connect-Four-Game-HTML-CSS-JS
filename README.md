@@ -13,7 +13,7 @@ Easy to play, impossible to resist!
   Compete with a friend on the same computer.
 - **Color-Coded Discs:**  
   ❤️ Player 1 — Red discs  
-  💛 Player 2 — Yellow discs
+  💙 Player 2 — Blue discs
 - **Smart Win Detection:**  
   Instantly checks and announces the winner after every move.
 - **Clean, Simple User Interface:**  
