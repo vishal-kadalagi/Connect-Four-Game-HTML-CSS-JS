@@ -47,7 +47,7 @@ A picture is worth a thousand words! You can find screenshots of the game in the
 
 ## How to run locally?
 * Just clone the repository and open index.html file, you are good to go.
-* 
+  
 ## 🧑💻 Author
 
 **Vishal Kadalagi**
