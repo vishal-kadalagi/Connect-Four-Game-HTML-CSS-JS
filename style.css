@@ -1,0 +1,137 @@
+.board button{
+	width: 100px;
+	height: 100px;
+	background-color: gray;
+	margin: 1px;
+	border: 4px solid black;
+	border-radius: 50%;
+}
+
+.navbar, .footer{
+	height: 80px;
+	background-color: magenta;
+	align-self: center;
+}
+
+.footer{
+	height: 80px;
+	background-color: magenta;
+	align-self: center;
+	margin-top: 30px;
+}
+
+#nameOfGame, p{
+	align-self: center;
+	font-size: 50px;
+	color: white;
+}
+
+body{
+	background-color: pink;
+}
+#gamepage{
+	display: none;
+}
+
+#start>button{
+	margin:200px 0px;
+	font-size: 32px;
+	padding: 10px 20px;
+	background-color: green;
+	color: white;
+	border: 1px solid blue;
+	border-radius: 30px;
+}
+.footer{
+	width: 100%;
+	position: fixed;
+	bottom:0;
+}
+#nameInput{
+	height: 100%;
+	width: 100%;
+	background-color: rgb(0, 0, 0,0.4);
+	font-size: 20px;
+	position:fixed;
+	left: 0px;
+	top:0px;
+	display: none;
+	z-index: 1;
+}
+#modal{
+	border:1px solid black;
+	border-radius: 10px;
+	width: fit-content;
+	padding: 20px 40px;
+	background-color: rgb(173, 249, 252);
+	z-index: 2;
+	margin: 15% auto;
+	box-shadow: 0 10px 20px 0 rgba(0, 0, 0), 0 12px 30px 0 rgba(0, 0, 0);
+}
+#modal>button{
+	padding:5px 20px;
+	background-color: green;
+	color: white;
+	border: 1px solid blue;
+	border-radius: 30px;
+}
+input{
+	color:white;
+	border-radius: 2px solid blue;
+	background-color: rgb(48, 53, 53);
+}
+.activePlayer{
+	padding: 5px 10px;
+	background-color: chartreuse;
+	color:white;
+	border: 2px solid rgb(255, 0, 0);
+	border-radius: 25px;
+	position:fixed;
+	left: 5%;
+}
+.inactivePlayer{
+	padding: 5px 10px;
+	background-color: gray;
+	color: white;
+	border: 2px solid blue;
+	border-radius: 25px;
+	position:fixed;
+	right:5%;
+}
+.close {
+	color: rgb(248, 3, 3);
+	float: right;
+	font-size: 32px;
+	font-weight: bold;
+  }
+
+.close:active, .close:hover{
+  cursor:pointer;
+}
+
+#timer-wrap{
+  background-color: red;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  padding: 6px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+.centered {
+  position: absolute;
+  top: 30%;
+  left: 45%;
+}
+/* to remove the arrow signs in the input type number field */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
